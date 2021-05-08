@@ -1,0 +1,706 @@
+{
+    "UIN": "HYWAZ20151230",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SUVEN LIFE SCIENCES LIMITED",
+                "AddressoftheParty": "SERENE CHAMBERS, ROAD NO 5, AVE 7, BANJARA HILLS, HYDERABAD, 500034  HYDERABAD",
+                "NetWorth": "5,593,100,000.00",
+                "StakeofJVorWOS": "100.00"
+            }
+        ],
+        "ForeignParties": [],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "SUVEN INC",
+        "Address": "SUITE 110, 1100 CORNWALL ROAD, MONMOUTH JUNCTION, NJ 08852 USA",
+        "Category": "UNITED STATES OF AMERICA",
+        "Country": "WHOLLY OWNED SUBSIDIARY",
+        "Activity": "MANUFACTURING",
+        "SubActivity": "MANUFACTURE OF DRUGS, MEDICINES AND ALLIED PRODUCTS",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "STATE BANK OF INDIA NODAL OFFICE,MUMBAI",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [
+        {
+            "OldName": "SUVEN PHARMACEUTICALS LTD",
+            "NewName": "SUVEN LIFE SCIENCES LIMITED",
+            "ModifiedDate": "30/12/2015",
+            "wef": "25/09/2003",
+            "UserType": "AD USER"
+        }
+    ],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "32.31",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420150174",
+            "DateofFinancialCommitment": "21/10/2015",
+            "DateofReporting": "02/11/2015",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170289",
+            "DateofFinancialCommitment": "18/07/2017",
+            "DateofReporting": "24/11/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170290",
+            "DateofFinancialCommitment": "07/08/2017",
+            "DateofReporting": "24/11/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170291",
+            "DateofFinancialCommitment": "30/08/2017",
+            "DateofReporting": "24/11/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170292",
+            "DateofFinancialCommitment": "05/10/2017",
+            "DateofReporting": "24/11/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170324",
+            "DateofFinancialCommitment": "30/10/2017",
+            "DateofReporting": "16/12/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170324",
+            "DateofFinancialCommitment": "20/11/2017",
+            "DateofReporting": "16/12/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420170324",
+            "DateofFinancialCommitment": "06/12/2017",
+            "DateofReporting": "16/12/2017",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420180069",
+            "DateofFinancialCommitment": "01/02/2018",
+            "DateofReporting": "13/02/2018",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "250,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420180089",
+            "DateofFinancialCommitment": "05/03/2018",
+            "DateofReporting": "19/03/2018",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420180110",
+            "DateofFinancialCommitment": "21/03/2018",
+            "DateofReporting": "19/04/2018",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420180139",
+            "DateofFinancialCommitment": "10/05/2018",
+            "DateofReporting": "10/06/2018",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190010",
+            "DateofFinancialCommitment": "07/08/2018",
+            "DateofReporting": "08/01/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190010",
+            "DateofFinancialCommitment": "07/08/2018",
+            "DateofReporting": "08/01/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "200,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190058",
+            "DateofFinancialCommitment": "08/10/2018",
+            "DateofReporting": "12/01/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "310,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190057",
+            "DateofFinancialCommitment": "19/10/2018",
+            "DateofReporting": "12/01/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420180228",
+            "DateofFinancialCommitment": "27/11/2018",
+            "DateofReporting": "13/12/2018",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,200,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190086",
+            "DateofFinancialCommitment": "17/01/2019",
+            "DateofReporting": "24/01/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "700,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES",
+            "TranNo": "01-00000042019012",
+            "DateofFinancialCommitment": "07/02/2019",
+            "DateofReporting": "18/02/2019",
+            "Source": "Cash Remittanc",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "150,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "LIMITED",
+            "TranNo": "0",
+            "DateofFinancialCommitment": "",
+            "DateofReporting": "",
+            "Source": "e - EEFC",
+            "CUR": "",
+            "FinancialCommitmentInActual": {
+                "Equity": "",
+                "Loan": "",
+                "GuaranteeInvoked": "",
+                "GuaranteeIssued": "",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190169",
+            "DateofFinancialCommitment": "09/04/2019",
+            "DateofReporting": "16/04/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "2,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190204",
+            "DateofFinancialCommitment": "26/04/2019",
+            "DateofReporting": "15/05/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "4,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190311",
+            "DateofFinancialCommitment": "14/06/2019",
+            "DateofReporting": "19/07/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "350,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190312",
+            "DateofFinancialCommitment": "03/07/2019",
+            "DateofReporting": "19/07/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "2,050,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190327",
+            "DateofFinancialCommitment": "31/07/2019",
+            "DateofReporting": "06/08/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "100,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190395",
+            "DateofFinancialCommitment": "11/09/2019",
+            "DateofReporting": "24/10/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190409",
+            "DateofFinancialCommitment": "30/10/2019",
+            "DateofReporting": "01/11/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "250,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190429",
+            "DateofFinancialCommitment": "08/11/2019",
+            "DateofReporting": "15/11/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "650,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190524",
+            "DateofFinancialCommitment": "13/12/2019",
+            "DateofReporting": "17/12/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "300,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190554",
+            "DateofFinancialCommitment": "27/12/2019",
+            "DateofReporting": "30/12/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020190554",
+            "DateofFinancialCommitment": "27/12/2019",
+            "DateofReporting": "30/12/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200278",
+            "DateofFinancialCommitment": "18/05/2020",
+            "DateofReporting": "19/06/2020",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "250,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200290",
+            "DateofFinancialCommitment": "22/06/2020",
+            "DateofReporting": "02/07/2020",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200350",
+            "DateofFinancialCommitment": "27/07/2020",
+            "DateofReporting": "29/07/2020",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "150,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200505",
+            "DateofFinancialCommitment": "21/09/2020",
+            "DateofReporting": "24/09/2020",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "800,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200555",
+            "DateofFinancialCommitment": "13/10/2020",
+            "DateofReporting": "14/10/2020",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200662",
+            "DateofFinancialCommitment": "29/10/2020",
+            "DateofReporting": "02/11/2020",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020200765",
+            "DateofFinancialCommitment": "08/12/2020",
+            "DateofReporting": "10/12/2020",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020210044",
+            "DateofFinancialCommitment": "13/01/2021",
+            "DateofReporting": "15/01/2021",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020210204",
+            "DateofFinancialCommitment": "18/03/2021",
+            "DateofReporting": "22/03/2021",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-000000020210059",
+            "StartDatOfAccountingPeriod ": "01/04/2019",
+            "EndDatOfAccountingPeriod ": "31/03/2020",
+            "AccountingYear": "2020",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "04/01/2021"
+        },
+        {
+            "Transaction No": "05-000000020190643",
+            "StartDatOfAccountingPeriod ": "01/04/2018",
+            "EndDatOfAccountingPeriod ": "31/03/2019",
+            "AccountingYear": "2019",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "27/12/2019"
+        },
+        {
+            "Transaction No": "05-000000420190010",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "08/01/2019"
+        },
+        {
+            "Transaction No": "05-000000420170249",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "13/12/2017"
+        },
+        {
+            "Transaction No": "05-000000420170248",
+            "StartDatOfAccountingPeriod ": "21/10/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "13/12/2017"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "13/12/2017",
+            "EffectiveDate": "2015",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

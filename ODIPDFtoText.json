@@ -1,0 +1,313 @@
+{
+    "UIN": "PJJAZ20110401",
+    "Transaction Details": [{
+        "TransactionNo": "06-033000020170009",
+        "TransactionDate ": "01/01/2021",
+        "Parent UIN": "PJJAZ20110860"
+    }, {
+        "TransactionNo": "06-033000020170009",
+        "TransactionDate ": "01/01/2021",
+        "Parent UIN": "PJJAZ20110860"
+    }],
+
+    "PartyDetails": {
+        "IndianParties": [{
+                "NameoftheParty": "",
+                "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+                "NetWorth": 0.00,
+                "StakeofJVorWOS": 7.45
+            },
+            {
+                "NameoftheParty": "",
+                "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+                "NetWorth": 0.00,
+                "StakeofJVorWOS": 7.45
+            }
+        ],
+
+        "ForeignParties": [{
+            "NameoftheParty": "",
+            "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+            "NetWorth": 0.00,
+            "StakeofJVorWOS": 7.45
+        }, {
+            "NameoftheParty": "",
+            "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+            "NetWorth": 0.00,
+            "StakeofJVorWOS": 7.45
+        }],
+
+        "DetailsofOtherIndianParties": [{
+                "NameoftheParty": "",
+                "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+                "NetWorth": 0.00,
+                "StakeofJVorWOS": 7.45
+            },
+            {
+                "NameoftheParty": "",
+                "AddressoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT LTD.",
+                "NetWorth": 0.00,
+                "StakeofJVorWOS": 7.45
+            }
+        ]
+    },
+
+    "DetailsofOverseasConcern": {
+        "Name": "SUVEN INC",
+        "Address": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN,ISLANDS",
+        "Category": "JOINT VENTURE",
+        "Country": "BRITISH VIRGIN ISLANDS",
+        "Activity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "SYNDICATE BANK",
+        "StatusoftheUIN": "LIVE"
+    },
+
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": [{
+            "IndianPartyName": "FOMENTO RESOURCES PVT LTD",
+            "NameoftheInvestigationAgency": "DOE",
+            "PeriodUnderInvestigation": {
+                "From": "01/10/2014",
+                "To": "01/10/2014"
+            }
+        }]
+
+    },
+
+    "ChangeInNameOfTheIndianParty": [{
+        "OldName": "FOMENTO RESOURCES PVT LTD",
+        "NewName": "SUVEN LIFE SCIENCES LIMITED",
+        "ModifiedDate": "30/12/2015",
+        "wef": "25/09/2003",
+        "UserType": "AD USER"
+    }, {
+        "OldName": "FOMENTO RESOURCES PVT LTD",
+        "NewName": "SUVEN LIFE SCIENCES LIMITED",
+        "ModifiedDate": "30/12/2015",
+        "wef": "25/09/2003",
+        "UserType": "AD USER"
+    }],
+
+    "ChangeInNameOfJVorWOS": [{
+        "OldName": "FOMENTO RESOURCES PVT LTD",
+        "NewName": "SUVEN LIFE SCIENCES LIMITED",
+        "ModifiedDate": "30/12/2015",
+        "wef": "25/09/2003",
+        "UserType": "AD USER"
+    }, {
+        "OldName": "FOMENTO RESOURCES PVT LTD",
+        "NewName": "SUVEN LIFE SCIENCES LIMITED",
+        "ModifiedDate": "30/12/2015",
+        "wef": "25/09/2003",
+        "UserType": "AD USER"
+    }],
+
+
+    "ApprovedInvestments": {
+        "Equity": 1.0,
+        "Loan": 1.0,
+        "GuaranteeIssued": 1.0,
+        "GuaranteeInvoked": 1.0
+    },
+
+    "FinancialCommitment": [{
+        "IPName": "FOMENTO(KA RNATAKA)MI NING COMPANY PVTLTD.",
+        "TranNo": "01-033000-02011001-4",
+        "DateofFinancialCommitment": "05/09/2011",
+        "DateofReporting": "30/09/2011",
+        "Source": "Cash Remittanc e-Market purchase",
+        "CUR": "AUD",
+        "FinancialCommitmentInActual": {
+            "Equity": "13,285,958. 00",
+            "Loan": 0.00,
+            "GuaranteeInvoked": 0.00,
+            "GuaranteeIssued": 0.00,
+            "GuaranteeStatuses": ""
+        }
+    }, {
+        "IPName": "FOMENTO(KA RNATAKA)MI NING COMPANY PVTLTD.",
+        "TranNo": "01-033000-02011001-4",
+        "DateofFinancialCommitment": "05/09/2011",
+        "DateofReporting": "30/09/2011",
+        "Source": "Cash Remittanc e-Market purchase",
+        "CUR": "AUD",
+        "FinancialCommitmentInActual": {
+            "Equity": "13,285,958. 00",
+            "Loan": 0.00,
+            "GuaranteeInvoked": 0.00,
+            "GuaranteeIssued": 0.00,
+            "GuaranteeStatuses": ""
+        }
+    }],
+
+    "PendingforRBIRatificationApproval": [{
+        "IPName": "FOMENTO(KA RNATAKA)MI NING COMPANY PVTLTD.",
+        "TranNo": "01-033000-02011001-4",
+        "DateofFinancialCommitment": "05/09/2011",
+        "DateofReporting": "30/09/2011",
+        "Source": "Cash Remittanc e-Market purchase",
+        "CUR": "AUD",
+        "FinancialCommitmentInActual": {
+            "Equity": "13,285,958. 00",
+            "Loan": 0.00,
+            "GuaranteeInvoked": 0.00,
+            "GuaranteeIssued": 0.00,
+            "GuaranteeStatuses": ""
+        }
+    }, {
+        "IPName": "FOMENTO(KA RNATAKA)MI NING COMPANY PVTLTD.",
+        "TranNo": "01-033000-02011001-4",
+        "DateofFinancialCommitment": "05/09/2011",
+        "DateofReporting": "30/09/2011",
+        "Source": "Cash Remittanc e-Market purchase",
+        "CUR": "AUD",
+        "FinancialCommitmentInActual": {
+            "Equity": "13,285,958. 00",
+            "Loan": 0.00,
+            "GuaranteeInvoked": 0.00,
+            "GuaranteeIssued": 0.00,
+            "GuaranteeStatuses": ""
+        }
+    }],
+    "Inflow Details": [{
+            "Amount": "2.76",
+            "Component": "OTHER FEE",
+            "Date": "24/06/2014",
+            "Total": "21.67"
+        },
+        {
+            "Amount": "2.76",
+            "Component": "OTHER FEE",
+            "Date": "24/06/2014",
+            "Total": "21.67"
+        }
+    ],
+
+    "SubmissionofAPR": [{
+            "Transaction No": "05-000000020210059 ",
+            "StartDatOfAccountingPeriod ": "01/04/2019",
+            "EndDatOfAccountingPeriod ": "31/03/2020",
+            "AccountingYear": "2021",
+            "Status": "Reported/Submitted to RBI ",
+            "SubmittedOrRatification Date": "04/01/2021"
+        },
+        {
+            "Transaction No": "05-000000020210059 ",
+            "StartDatOfAccountingPeriod ": "01/04/2019",
+            "EndDatOfAccountingPeriod ": "31/03/2020",
+            "AccountingYear": "2021",
+            "Status": "Reported/Submitted to RBI ",
+            "SubmittedOrRatification Date": "04/01/2021"
+        }
+
+    ],
+
+    "ChangeInOverseasSubsidary": [{
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "13/12/2017",
+            "EffectiveDate": "2015",
+            "UserType": "AD USER"
+        },
+        {
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "13/12/2017",
+            "EffectiveDate": "2015",
+            "UserType": "AD USER"
+        }
+    ],
+
+
+    "DisinvestmentDetails": [{
+            "UINNumber": "PJJAZ20110860",
+            "TransactionNumber ": "06-033000020170009",
+            "DateOfDisinvestment": "28/01/2015",
+            "DateOfRepatriated": "28/01/2015",
+            "AmountRepatriated": {
+                "Equity": {
+                    "Amount": "8822390.00",
+                    "CUR": "AUD"
+                }
+            }
+        }, {
+            "UINNumber": "PJJAZ20110860",
+            "TransactionNumber ": "06-033000020170009",
+            "DateOfDisinvestment": "28/01/2015",
+            "DateOfRepatriated": "28/01/2015",
+            "AmountRepatriated": {
+                "Equity": {
+                    "Amount": "8822390.00",
+                    "CUR": "AUD"
+                }
+            }
+        }
+
+    ],
+
+    "ConversionOfLoanToEquityAndEquityToLoan": [{
+        "TransactionNo ": "06-033000020170009",
+        "OriginalRemittanceDate": "01/02/2021",
+        "OriginalAmount": 0.00,
+        "DateOfConversion": "01/02/2021",
+        "ModifiedAmount": 0.00,
+        "Remarks": "Remarks",
+        "UserType": "AD USER"
+    }, {
+        "TransactionNo ": "06-033000020170009",
+        "OriginalRemittanceDate": "01/02/2021",
+        "OriginalAmount": 0.00,
+        "DateOfConversion": "01/02/2021",
+        "ModifiedAmount": 0.00,
+        "Remarks": "Remarks",
+        "UserType": "AD USER"
+    }],
+
+    "GuaranteeDetails": [{
+            "TransactionNo ": "06-033000020170009",
+            "MethodOfInvestment ": "Method",
+            "CategoryOfInvestment ": "Category",
+            "ForeignCurrencyCode ": "AUD",
+            "GuaranteeAmount ": 0.00,
+            "GuaranteeIssueDate": "01/02/2021",
+            "GuaranteeValidityDate ": "01/02/2021",
+            "GuaranteeIssuesInFavour": "Favour",
+            "GuaranteeIssueRoute": "Route"
+        },
+        {
+            "TransactionNo ": "06-033000020170009",
+            "MethodOfInvestment ": "Method",
+            "CategoryOfInvestment ": "Category",
+            "ForeignCurrencyCode ": "AUD",
+            "GuaranteeAmount ": 0.00,
+            "GuaranteeIssueDate": "01/02/2021",
+            "GuaranteeValidityDate ": "01/02/2021",
+            "GuaranteeIssuesInFavour": "Favour",
+            "GuaranteeIssueRoute": "Route"
+        }
+    ],
+
+    "StepDownDetails ": [{
+            "LevelOfStepDownSubsidiary": 1,
+            "SDSName ": "TERRAVIN WINES LTD ",
+            "Country ": "NEW ZEALAND",
+            "Stake ": 100.00,
+            "OperatingOrSPV ": "Operating Company",
+            "ParentCompanyName ": "PINOT INVESTMENTS LP"
+        },
+        {
+            "LevelOfStepDownSubsidiary": 2,
+            "SDSName ": "HIGHFIELD TERRAVIN LTD ",
+            "Country ": "NEW ZEALAND",
+            "Stake ": 75.00,
+            "OperatingOrSPV ": "Operating Com SPV ",
+            "ParentCompanyName ": "TERRAVIN WINES LTD"
+        }
+    ]
+
+
+
+}
