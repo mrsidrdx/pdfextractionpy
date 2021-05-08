@@ -1,0 +1,134 @@
+{
+    "UIN": "BYWAZ20050498",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "GOLDFIELD FRAGRANCES PVT., LTD",
+                "AddressoftheParty": "1/17, PRABHADEVI IND. ESTATE, VEER SAVARKAR MARG,, MUMBAI, 400025  MUMBAI",
+                "NetWorth": "86,952,179.00",
+                "StakeofJVorWOS": "100.00"
+            }
+        ],
+        "ForeignParties": [],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "FRAGROM GOLDFIELD SL",
+        "Address": "PEZ VALADOR 32,BAJO CYD 28007, MADRID , SPAIN",
+        "Category": "SPAIN",
+        "Country": "WHOLLY OWNED SUBSIDIARY",
+        "Activity": "MANUFACTURING",
+        "SubActivity": "MANUFACTURE OF PERFUMES, COSMETICS, LOTIONS, HAIR DRESSINGS, TOOTHPASTES, SOAP IN ANY FORM, DETERGENTS, SHAMPOOS, SHAVING PRODUCTS, WASHING AND CLEANING PREPARATIONS AND OTHER TOILET PREPARATIONS.",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "BANK OF INDIA",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "0.70",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020050056",
+            "DateofFinancialCommitment": "01/05/2005",
+            "DateofReporting": "20/12/2005",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "5,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020050056",
+            "DateofFinancialCommitment": "01/07/2005",
+            "DateofReporting": "20/12/2005",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "30,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020050056",
+            "DateofFinancialCommitment": "01/09/2005",
+            "DateofReporting": "20/12/2005",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020050056",
+            "DateofFinancialCommitment": "01/12/2005",
+            "DateofReporting": "20/12/2005",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "40,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-022000020180271",
+            "StartDatOfAccountingPeriod ": "01/04/2008",
+            "EndDatOfAccountingPeriod ": "31/03/2009",
+            "AccountingYear": "2009",
+            "Status": "Pending for RBI Ratification/Approval",
+            "SubmittedOrRatification Date": "13/07/2018"
+        },
+        {
+            "Transaction No": "05-022000020180270",
+            "StartDatOfAccountingPeriod ": "01/04/2007",
+            "EndDatOfAccountingPeriod ": "31/03/2008",
+            "AccountingYear": "2008",
+            "Status": "Pending for RBI Ratification/Approval",
+            "SubmittedOrRatification Date": "13/07/2018"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "March",
+            "NewAccountingYear": "April",
+            "ModificationDate": "13/07/2018",
+            "EffectiveDate": "2008",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

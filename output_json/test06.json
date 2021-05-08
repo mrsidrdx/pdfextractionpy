@@ -1,0 +1,136 @@
+{
+    "UIN": "PJJAZ20120703",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SOCIEDADE DE FOMENTO INDUSTRIAL PVT LTD",
+                "AddressoftheParty": "VILLA FLORES DA SILVA ,ERASMO CARVALHO STREET   MARGAO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "99.98"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "ANUJ TIMBLO",
+                "AddressoftheParty": "1250, 24TH STREET NW SUITE 300 WASHINGTON DC  20037",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "0.02"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "FOMENTO RESOURCES USA LLC",
+        "Address": "1250, 24TH STREET NW SUITE 300 WASHINGTON DC  20037",
+        "Category": "UNITED STATES OF AMERICA",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "5.00",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020120494",
+            "DateofFinancialCommitment": "29/06/2012",
+            "DateofReporting": "02/08/2012",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "4,999,990.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020190139",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "07/01/2019"
+        },
+        {
+            "Transaction No": "05-051000020180133",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "08/01/2018"
+        },
+        {
+            "Transaction No": "05-051000020180132",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Pending",
+            "SubmittedOrRatification Date": "08/01/2018"
+        },
+        {
+            "Transaction No": "05-051000020170247",
+            "StartDatOfAccountingPeriod ": "01/04/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "15/02/2017"
+        },
+        {
+            "Transaction No": "05-051000020160391",
+            "StartDatOfAccountingPeriod ": "01/04/2014",
+            "EndDatOfAccountingPeriod ": "31/03/2015",
+            "AccountingYear": "2015",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "13/07/2016"
+        },
+        {
+            "Transaction No": "05-051000020160390",
+            "StartDatOfAccountingPeriod ": "01/04/2013",
+            "EndDatOfAccountingPeriod ": "31/03/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "13/07/2016"
+        },
+        {
+            "Transaction No": "05-051000020160389",
+            "StartDatOfAccountingPeriod ": "29/06/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "13/07/2016"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "13/07/2016",
+            "EffectiveDate": "2012",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

@@ -1,0 +1,169 @@
+{
+    "UIN": "PJJAZ20110883",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT  LTD.",
+                "AddressoftheParty": "CIDADE DE GOA  VAINGUINIM BEACH   DONA PAULA",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "32.15"
+            },
+            {
+                "NameoftheParty": "FOMENTO RESOURCES PVT LTD",
+                "AddressoftheParty": "OFFICE 325, 2ND FLOOR,CASA DEL SOL, CASA III,NEXT TO GOA MARRIOTT, MIRAMAR PANJIM",
+                "NetWorth": "15,546,199,226.00",
+                "StakeofJVorWOS": "0.00"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "WHITE CLOUD FUND LTD",
+                "AddressoftheParty": "1 AVLONOSNOS STREET MARIA HOUSE CY-1075  NICOSIA CYPRUS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "66.26"
+            },
+            {
+                "NameoftheParty": "OTHERS",
+                "AddressoftheParty": "1 AVLONOSNOS STREET MARIA HOUSE CY-1075  NICOSIA CYPRUS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "1.59"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "NYMBUSCO LTD",
+        "Address": "1 AVLONOSNOS STREET MARIA HOUSE CY-1075  NICOSIA CYPRUS",
+        "Category": "CYPRUS",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "SYNDICATE BANK",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": [
+            {
+                "IndianPartyName": "FOMENTO RESOURCES PVT LTD",
+                "InvestigationData": [
+                    {
+                        "NameoftheInvestigationAgency": "DOE",
+                        "PeriodUnderInvestigation": {
+                            "From": "01/10/2014",
+                            "To": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "8.97",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "FOMENTO(KARNATAKA)MINING COMPANY PVT  LTD.",
+            "TranNo": "01-033000020110015",
+            "DateofFinancialCommitment": "20/09/2011",
+            "DateofReporting": "13/10/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,450,790.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "FOMENTO RESOURCES PVT LTD",
+            "TranNo": "01-033000020180031",
+            "DateofFinancialCommitment": "28/01/2015",
+            "DateofReporting": "21/06/2017",
+            "Source": "Sale/ Transfer/ Liquidationof Indian Party(IP)/ Merger of IP",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,450,790.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-033000020180002",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "05/01/2018"
+        },
+        {
+            "Transaction No": "05-033000020170022",
+            "StartDatOfAccountingPeriod ": "01/04/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "23/02/2017"
+        },
+        {
+            "Transaction No": "05-033000020160009",
+            "StartDatOfAccountingPeriod ": "01/04/2014",
+            "EndDatOfAccountingPeriod ": "31/03/2015",
+            "AccountingYear": "2015",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "05/01/2016"
+        },
+        {
+            "Transaction No": "05-033000020150011",
+            "StartDatOfAccountingPeriod ": "01/04/2013",
+            "EndDatOfAccountingPeriod ": "31/03/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "19/01/2015"
+        },
+        {
+            "Transaction No": "05-033000020150021",
+            "StartDatOfAccountingPeriod ": "01/04/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/03/2015"
+        },
+        {
+            "Transaction No": "05-033000020130023",
+            "StartDatOfAccountingPeriod ": "20/09/2011",
+            "EndDatOfAccountingPeriod ": "31/03/2012",
+            "AccountingYear": "2012",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "21/10/2013"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": [
+        {
+            "LevelOfStepDownSubsidiary": "1",
+            "SDSName ": "NIMBUS BUSINESS INVESTMENTS B.V",
+            "Country ": "NETHERLANDS",
+            "Stake ": "100.00",
+            "OperatingOrSPV ": "SPV",
+            "ParentCompanyName ": "NYMBUSCO LTD"
+        }
+    ]
+}

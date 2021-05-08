@@ -1,0 +1,263 @@
+{
+    "UIN": "BYWAZ20030231",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "GOLDFIELD FRAGRANCES PVT., LTD",
+                "AddressoftheParty": "1/17, PRABHADEVI IND. ESTATE, VEER SAVARKAR MARG,, MUMBAI, 400025  MUMBAI",
+                "NetWorth": "86,952,179.00",
+                "StakeofJVorWOS": "84.75"
+            },
+            {
+                "NameoftheParty": "ASHIKA KAMTE",
+                "AddressoftheParty": "VASANT VIHAR ,8 CARMICHAEL ROAD,  MUMBAI",
+                "NetWorth": "14,768,895.00",
+                "StakeofJVorWOS": "10.56"
+            },
+            {
+                "NameoftheParty": "BHARATRAO KAMTE",
+                "AddressoftheParty": "9 PALM COURT M KARVEROAD   MUMBAI",
+                "NetWorth": "6,111,000.00",
+                "StakeofJVorWOS": "4.69"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "QUINTESSENCE FRAGRANCES LTD",
+                "AddressoftheParty": "UNIT 2A, HAWTHRON INDUSTRIAL ESTATE, AVIS WAY, NEWHEAVEN,EAST SUSSEX, BN9ODJ, ENGLAND",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "0.00"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "QUINTESSENCE FRAGRANCES LRD.",
+        "Address": "UNIT 2A, HAWTHRON INDUSTRIAL ESTATE, AVIS WAY, NEWHEAVEN, EAST SUSSEX, BN9ODJ, ENGLAND",
+        "Category": "UNITED KINGDOM",
+        "Country": "WHOLLY OWNED SUBSIDIARY",
+        "Activity": "MANUFACTURING",
+        "SubActivity": "MANUFACTURE OF OTHER MISCELLANEOUS PRODUCTS N.E.C.",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "BANK OF INDIA",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "0.65",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020030085",
+            "DateofFinancialCommitment": "01/07/2003",
+            "DateofReporting": "05/07/2003",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "GBP",
+            "FinancialCommitmentInActual": {
+                "Equity": "102,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "GOLDFIELD FRAGRANCES PVT., LTD",
+            "TranNo": "01-022000020080125",
+            "DateofFinancialCommitment": "22/05/2008",
+            "DateofReporting": "14/10/2008",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "GBP",
+            "FinancialCommitmentInActual": {
+                "Equity": "100,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "BHARATRAO KAMTE",
+            "TranNo": "01-022000020180179",
+            "DateofFinancialCommitment": "16/11/2017",
+            "DateofReporting": "03/09/2018",
+            "Source": "Others Fund Based",
+            "CUR": "GBP",
+            "FinancialCommitmentInActual": {
+                "Equity": "44,433.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "ASHIKA KAMTE",
+            "TranNo": "01-022000020190092",
+            "DateofFinancialCommitment": "24/01/2018",
+            "DateofReporting": "14/12/2018",
+            "Source": "Others Fund Based",
+            "CUR": "GBP",
+            "FinancialCommitmentInActual": {
+                "Equity": "100,003.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "ASHIKA KAMTE",
+            "TranNo": "01-022000020190122",
+            "DateofFinancialCommitment": "26/02/2019",
+            "DateofReporting": "22/04/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "GBP",
+            "FinancialCommitmentInActual": {
+                "Equity": "112,785.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [
+        {
+            "Date": "31/03/2012",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.09"
+        },
+        {
+            "Date": "31/03/2013",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.08"
+        },
+        {
+            "Date": "31/03/2014",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.13"
+        },
+        {
+            "Date": "31/03/2015",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.17"
+        },
+        {
+            "Date": "31/03/2016",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.09"
+        },
+        {
+            "Date": "31/03/2017",
+            "Component": "NON-EQUITYEXPORTSREALISED",
+            "Amount": "0.27"
+        }
+    ],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-022000020190044",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "15/01/2019"
+        },
+        {
+            "Transaction No": "05-022000020180295",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180294",
+            "StartDatOfAccountingPeriod ": "01/04/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180293",
+            "StartDatOfAccountingPeriod ": "01/04/2014",
+            "EndDatOfAccountingPeriod ": "31/03/2015",
+            "AccountingYear": "2015",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180292",
+            "StartDatOfAccountingPeriod ": "01/04/2013",
+            "EndDatOfAccountingPeriod ": "31/03/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180291",
+            "StartDatOfAccountingPeriod ": "01/04/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180290",
+            "StartDatOfAccountingPeriod ": "01/04/2011",
+            "EndDatOfAccountingPeriod ": "31/03/2012",
+            "AccountingYear": "2012",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "24/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180283",
+            "StartDatOfAccountingPeriod ": "01/04/2010",
+            "EndDatOfAccountingPeriod ": "31/03/2011",
+            "AccountingYear": "2011",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "09/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180282",
+            "StartDatOfAccountingPeriod ": "01/04/2009",
+            "EndDatOfAccountingPeriod ": "31/03/2010",
+            "AccountingYear": "2010",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "09/08/2018"
+        },
+        {
+            "Transaction No": "05-022000020180238",
+            "StartDatOfAccountingPeriod ": "01/04/2008",
+            "EndDatOfAccountingPeriod ": "31/03/2009",
+            "AccountingYear": "2009",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "11/06/2018"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "September",
+            "NewAccountingYear": "April",
+            "ModificationDate": "11/06/2018",
+            "EffectiveDate": "2009",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

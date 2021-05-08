@@ -1,0 +1,150 @@
+{
+    "UIN": "PJJAZ20130719",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SOCIEDADE DE FOMENTO INDUSTRIAL PVT LTD",
+                "AddressoftheParty": "VILLA FLORES DA SILVA ,ERASMO CARVALHO STREET   MARGAO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "27.00"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "ATLANTICA MINING CORPORATION",
+                "AddressoftheParty": "AVENIDA DR CARLOS RODRIGUES DA CRUZ, ARACAJU, STATE OF SERJIPE, BRAZIL",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "73.00"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "ATLANTICA GEOLOGIA E MINERACO S.A.",
+        "Address": "AVENIDA DR CARLOS RODRIGUES DA CRUZ, ARACAJU, STATE OF SERJIPE, BRAZIL",
+        "Category": "BRAZIL",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTIAL ACQUISITION OF A FOREIGN CONCERN",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "4.94",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020130672",
+            "DateofFinancialCommitment": "01/08/2013",
+            "DateofReporting": "07/08/2013",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020131004",
+            "DateofFinancialCommitment": "06/12/2013",
+            "DateofReporting": "20/12/2013",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,750,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020140412",
+            "DateofFinancialCommitment": "30/04/2014",
+            "DateofReporting": "05/05/2014",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,750,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020190504",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "02/04/2019"
+        },
+        {
+            "Transaction No": "05-051000020180485",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "03/04/2018"
+        },
+        {
+            "Transaction No": "05-051000020170458",
+            "StartDatOfAccountingPeriod ": "01/01/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitt",
+            "SubmittedOrRatification Date": "09/05/2017"
+        },
+        {
+            "Transaction No": "",
+            "StartDatOfAccountingPeriod ": "",
+            "EndDatOfAccountingPeriod ": "",
+            "AccountingYear": "",
+            "Status": "ed to RBI",
+            "SubmittedOrRatification Date": ""
+        },
+        {
+            "Transaction No": "05-051000020160388",
+            "StartDatOfAccountingPeriod ": "01/08/2013",
+            "EndDatOfAccountingPeriod ": "31/12/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "13/07/2016"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "02/04/2019",
+            "EffectiveDate": "2018",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

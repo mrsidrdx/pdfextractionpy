@@ -1,0 +1,179 @@
+{
+    "UIN": "PJJAZ20110468",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "PRIME MINERAL EXPORTS PRIVATE LIMITED",
+                "AddressoftheParty": "F-1, FIRST FLOOR, OCEANIC APARTMENTS, BEHIND HANUMAN TEMPLE  MIRAMAR  MIRAMAR",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "29.82"
+            },
+            {
+                "NameoftheParty": "FOMENTO RESOURCES PVT LTD",
+                "AddressoftheParty": "OFFICE 325, 2ND FLOOR,CASA DEL SOL, CASA III,NEXT TO GOA MARRIOTT, MIRAMAR PANJIM",
+                "NetWorth": "15,546,199,226.00",
+                "StakeofJVorWOS": "0.00"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "CUMULUS BUSINESS HOLDING LIMITED",
+                "AddressoftheParty": "MORGAN AND MORGAN BLDG, PASEA ESTATE, ROAD TOWN, TORTALO, BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "70.18"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "CUMULUS BUSINESS HOLDING LTD",
+        "Address": "MORGAN AND MORGAN BLDG, PASEA ESTATE, ROAD TOWN, TORTALO, BRITISH VIRGIN ISLANDS",
+        "Category": "BRITISH VIRGIN ISLANDS",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "OTHER BUSINESS SERVICES NOT ELSEWHERE CLASSIFIED OR",
+        "NatureofInvestment": "INCLUDED",
+        "Accounting Year": "PARTICIPATION IN JV",
+        "AuthorizedDealer": "APRIL",
+        "StatusoftheUIN": "SYNDICATE BANK"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": [
+            {
+                "IndianPartyName": "FOMENTO RESOURCES PVT LTD",
+                "InvestigationData": [
+                    {
+                        "NameoftheInvestigationAgency": "DOE",
+                        "PeriodUnderInvestigation": {
+                            "From": "01/10/2014",
+                            "To": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "8.89",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "PRIME MINERAL EXPORTS PRIVATE LIMITED",
+            "TranNo": "01-033000020110001",
+            "DateofFinancialCommitment": "09/07/2010",
+            "DateofReporting": "11/02/2011",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,633,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "FOMENTO RESOURCES PVT LTD",
+            "TranNo": "01-033000020160048",
+            "DateofFinancialCommitment": "28/01/2015",
+            "DateofReporting": "18/08/2016",
+            "Source": "Sale/ Transfer/ Liquidationof Indian Party(IP)/ Merger of IP",
+            "CUR": "EUR",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,633,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-033000020180003",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "05/01/2018"
+        },
+        {
+            "Transaction No": "05-033000020170100",
+            "StartDatOfAccountingPeriod ": "01/04/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "26/09/2017"
+        },
+        {
+            "Transaction No": "05-033000020170099",
+            "StartDatOfAccountingPeriod ": "01/04/2014",
+            "EndDatOfAccountingPeriod ": "31/03/2015",
+            "AccountingYear": "2015",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "26/09/2017"
+        },
+        {
+            "Transaction No": "05-033000020150009",
+            "StartDatOfAccountingPeriod ": "01/04/2013",
+            "EndDatOfAccountingPeriod ": "31/03/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "19/01/2015"
+        },
+        {
+            "Transaction No": "05-033000020150027",
+            "StartDatOfAccountingPeriod ": "01/04/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "26/03/2015"
+        },
+        {
+            "Transaction No": "05-033000020130024",
+            "StartDatOfAccountingPeriod ": "01/04/2011",
+            "EndDatOfAccountingPeriod ": "31/03/2012",
+            "AccountingYear": "2012",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "22/10/2013"
+        },
+        {
+            "Transaction No": "05-033000020170098",
+            "StartDatOfAccountingPeriod ": "09/07/2010",
+            "EndDatOfAccountingPeriod ": "31/03/2011",
+            "AccountingYear": "2011",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "26/09/2017"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": [
+        {
+            "LevelOfStepDownSubsidiary": "1",
+            "SDSName ": "ATLANTIS HEALTH GROUP LIMITED,",
+            "Country ": "NEW ZEALAND",
+            "Stake ": "50.00",
+            "OperatingOrSPV ": "Operating Company",
+            "ParentCompanyName ": "CUMULUS BUSINESS HOLDING LTD"
+        },
+        {
+            "LevelOfStepDownSubsidiary": "1",
+            "SDSName ": "ATLANTIS HEALTH GROUP LIMITED",
+            "Country ": "NEW ZEALAND",
+            "Stake ": "0.00",
+            "OperatingOrSPV ": "Operating Company",
+            "ParentCompanyName ": "CUMULUS BUSINESS HOLDING LTD"
+        }
+    ]
+}

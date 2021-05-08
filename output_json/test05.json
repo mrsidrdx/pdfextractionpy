@@ -1,0 +1,157 @@
+{
+    "UIN": "PJJAZ20140174",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SOCIEDADE DE FOMENTO INDUSTRIAL PVT LTD",
+                "AddressoftheParty": "VILLA FLORES DA SILVA ,ERASMO CARVALHO STREET   MARGAO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "99.99"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "ANUJ TINEBLO",
+                "AddressoftheParty": "RUA CARLOS GOMES, NO 103, SUITE 909, EDIFICO CASTO ELVES, DOIS DE FULHO, CEP 40.060-330, CITY OF SALVADOR, BRAZIL",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "0.01"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "FOMENTO DO BRASIL MINERALAO LTDA",
+        "Address": "RUA CARLOS GOMES, NO 103, SUITE 909, EDIFICO CASTO ELVES, DOIS DE FULHO, CEP 40.060-330, CITY OF SALVADOR, BRAZIL",
+        "Category": "BRAZIL",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "4.69",
+        "Loan": "3.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020140172",
+            "DateofFinancialCommitment": "04/02/2014",
+            "DateofReporting": "26/02/2014",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "4,097.95",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020140172",
+            "DateofFinancialCommitment": "04/02/2014",
+            "DateofReporting": "26/02/2014",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "0.00",
+                "Loan": "3,000,000.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020150282",
+            "DateofFinancialCommitment": "30/03/2015",
+            "DateofReporting": "17/04/2015",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "2,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "01-051000020150415",
+            "DateofFinancialCommitment": "07/05/2015",
+            "DateofReporting": "30/05/2015",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "2,681,200.53",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020190140",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitt",
+            "SubmittedOrRatification Date": "07/01/2019"
+        },
+        {
+            "Transaction No": "05-051000020180137",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "09/01/2018"
+        },
+        {
+            "Transaction No": "05-051000020170457",
+            "StartDatOfAccountingPeriod ": "01/01/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "09/05/2017"
+        },
+        {
+            "Transaction No": "05-051000020160387",
+            "StartDatOfAccountingPeriod ": "04/02/2014",
+            "EndDatOfAccountingPeriod ": "31/12/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "13/07/2016"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [
+        {
+            "OldAccountingYear": "January",
+            "NewAccountingYear": "April",
+            "ModificationDate": "16/02/2017",
+            "EffectiveDate": "2015",
+            "UserType": "AD USER"
+        }
+    ],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

@@ -1,0 +1,189 @@
+{
+    "UIN": "HYWAZ20030223",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SUVEN LIFE SCIENCES LIMITED",
+                "AddressoftheParty": "SERENE CHAMBERS, ROAD NO 5, AVE 7, BANJARA HILLS, HYDERABAD, 500034  HYDERABAD",
+                "NetWorth": "5,593,100,000.00",
+                "StakeofJVorWOS": "100.00"
+            }
+        ],
+        "ForeignParties": [],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "SUVEN LIFE SCIENCES USA LLC.",
+        "Address": "MONMOUTH JUNCTION NEW JERSEY USA",
+        "Category": "UNITED STATES OF AMERICA",
+        "Country": "WHOLLY OWNED SUBSIDIARY",
+        "Activity": "MANUFACTURING",
+        "SubActivity": "MANUFACTURE OF DRUGS, MEDICINES AND ALLIED PRODUCTS",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "STATE BANK OF INDIA CHENNAI NODAL BRANCH",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [
+        {
+            "OldName": "SUVEN PHARMACEUTICALS LTD",
+            "NewName": "SUVEN LIFE SCIENCES LIMITED",
+            "ModifiedDate": "30/12/2015",
+            "wef": "25/09/2003",
+            "UserType": "AD USER"
+        }
+    ],
+    "ChangeInNameOfJVorWOS": [
+        {
+            "OldName": "HYWAZ20030223 - UPDATED - USA - SU0065",
+            "NewName": "SUVEN LIFE SCIENCES USA LLC.",
+            "ModifiedDate": "29/09/2010",
+            "wef": "29/09/2010",
+            "UserType": "RBI USER"
+        }
+    ],
+    "ApprovedInvestments": {
+        "Equity": "1.00",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020030118",
+            "DateofFinancialCommitment": "01/03/2003",
+            "DateofReporting": "26/03/2003",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "200,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020030084",
+            "DateofFinancialCommitment": "01/06/2003",
+            "DateofReporting": "05/06/2003",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "500,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020030158",
+            "DateofFinancialCommitment": "01/09/2003",
+            "DateofReporting": "29/09/2003",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "150,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020030085",
+            "DateofFinancialCommitment": "01/12/2003",
+            "DateofReporting": "12/12/2003",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "100,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000020040126",
+            "DateofFinancialCommitment": "01/02/2004",
+            "DateofReporting": "05/02/2004",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "50,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-000000420130074",
+            "StartDatOfAccountingPeriod ": "01/04/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Reported/Submitt",
+            "SubmittedOrRatification Date": "06/09/2013"
+        },
+        {
+            "Transaction No": "05-000000420130073",
+            "StartDatOfAccountingPeriod ": "01/04/2011",
+            "EndDatOfAccountingPeriod ": "31/03/2012",
+            "AccountingYear": "2012",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "06/09/2013"
+        },
+        {
+            "Transaction No": "05-000000420130072",
+            "StartDatOfAccountingPeriod ": "01/04/2010",
+            "EndDatOfAccountingPeriod ": "31/03/2011",
+            "AccountingYear": "2011",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "06/09/2013"
+        },
+        {
+            "Transaction No": "05-000000420110001",
+            "StartDatOfAccountingPeriod ": "01/04/2009",
+            "EndDatOfAccountingPeriod ": "31/03/2010",
+            "AccountingYear": "2010",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "18/03/2011"
+        },
+        {
+            "Transaction No": "05-000000020110257",
+            "StartDatOfAccountingPeriod ": "01/04/2008",
+            "EndDatOfAccountingPeriod ": "31/03/2009",
+            "AccountingYear": "2009",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "03/10/2011"
+        },
+        {
+            "Transaction No": "05-000000020110379",
+            "StartDatOfAccountingPeriod ": "01/04/2007",
+            "EndDatOfAccountingPeriod ": "31/03/2008",
+            "AccountingYear": "2008",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "12/12/2011"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

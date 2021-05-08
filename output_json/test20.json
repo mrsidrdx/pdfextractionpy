@@ -1,0 +1,153 @@
+{
+    "UIN": "PJJAZ20110401",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "PRIME MINERAL EXPORTS PRIVATE LIMITED",
+                "AddressoftheParty": "F-1, FIRST FLOOR, OCEANIC APARTMENTS, BEHIND HANUMAN TEMPLE  MIRAMAR  MIRAMAR",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "30.27"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "15 FOREIGN PARTIES",
+                "AddressoftheParty": "HARMOS HORTON LUSK LTD LEVEL 37 48 SHORTLAND STREET AUCKLAND NEW ZEALAND",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "69.73"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "PINOT INVESTMENTS LP",
+        "Address": "HARMOS HORTON LUSK LTD LEVEL 37 48 SHORT  LAND STREET AUCKLAND NEW ZEALAND",
+        "Category": "NEW ZEALAND",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "INVESTMENT RESEARCH AND COUNSELLING ACTIVITIES",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "JULY",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "1.54",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "PRIME MINERAL EXPORTS PRIVATE LIMITED",
+            "TranNo": "01-051000020110365",
+            "DateofFinancialCommitment": "14/02/2011",
+            "DateofReporting": "13/05/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,538,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020190138",
+            "StartDatOfAccountingPeriod ": "01/07/2017",
+            "EndDatOfAccountingPeriod ": "30/06/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "07/01/2019"
+        },
+        {
+            "Transaction No": "05-051000020180486",
+            "StartDatOfAccountingPeriod ": "01/07/2016",
+            "EndDatOfAccountingPeriod ": "30/06/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "03/04/2018"
+        },
+        {
+            "Transaction No": "05-051000020170725",
+            "StartDatOfAccountingPeriod ": "01/07/2015",
+            "EndDatOfAccountingPeriod ": "30/06/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "16/09/2017"
+        },
+        {
+            "Transaction No": "05-051000020170724",
+            "StartDatOfAccountingPeriod ": "01/07/2014",
+            "EndDatOfAccountingPeriod ": "30/06/2015",
+            "AccountingYear": "2015",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/09/2017"
+        },
+        {
+            "Transaction No": "05-051000020170721",
+            "StartDatOfAccountingPeriod ": "01/07/2013",
+            "EndDatOfAccountingPeriod ": "30/06/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/09/2017"
+        },
+        {
+            "Transaction No": "05-051000020150239",
+            "StartDatOfAccountingPeriod ": "01/07/2012",
+            "EndDatOfAccountingPeriod ": "30/06/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/05/2015"
+        },
+        {
+            "Transaction No": "05-051000020170719",
+            "StartDatOfAccountingPeriod ": "01/07/2011",
+            "EndDatOfAccountingPeriod ": "30/06/2012",
+            "AccountingYear": "2012",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/09/2017"
+        },
+        {
+            "Transaction No": "05-051000020170715",
+            "StartDatOfAccountingPeriod ": "14/02/2011",
+            "EndDatOfAccountingPeriod ": "30/06/2011",
+            "AccountingYear": "2011",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/09/2017"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": [
+        {
+            "LevelOfStepDownSubsidiary": "1",
+            "SDSName ": "TERRAVIN WINES LTD",
+            "Country ": "NEW ZEALAND",
+            "Stake ": "100.00",
+            "OperatingOrSPV ": "Operating Company",
+            "ParentCompanyName ": "PINOT INVESTMENTS LP"
+        },
+        {
+            "LevelOfStepDownSubsidiary": "2",
+            "SDSName ": "HIGHFIELD TERRAVIN LTD",
+            "Country ": "NEW ZEALAND",
+            "Stake ": "75.00",
+            "OperatingOrSPV ": "Operating Com SPV",
+            "ParentCompanyName ": "TERRAVIN WINES LTD"
+        }
+    ]
+}

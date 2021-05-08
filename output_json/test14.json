@@ -1,0 +1,102 @@
+{
+    "UIN": "HYJAZ20191478",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SUVEN LIFE SCIENCES LIMITED",
+                "AddressoftheParty": "SERENE CHAMBERS, ROAD NO 5, AVE 7, BANJARA HILLS, HYDERABAD, 500034  HYDERABAD",
+                "NetWorth": "5,593,100,000.00",
+                "StakeofJVorWOS": "100.00"
+            }
+        ],
+        "ForeignParties": [],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "SUVEN PHARMA INC",
+        "Address": "SUITE 110, 1100 CORNWALL ROAD, MONMOUTH JUNCTION, NJ 08852 USA",
+        "Category": "UNITED STATES OF AMERICA",
+        "Country": "JOINT VENTURE",
+        "Activity": "MANUFACTURING",
+        "SubActivity": "MANUFACTURE OF CHEMICAL SUBSTANCES USED IN THE MANUFACTURE OF PHARMACEUTICALS",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "STATE BANK OF INDIA CHENNAI NODAL BRANCH",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [
+        {
+            "OldName": "SUVEN PHARMACEUTICALS LTD",
+            "NewName": "SUVEN LIFE SCIENCES LIMITED",
+            "ModifiedDate": "30/12/2015",
+            "wef": "25/09/2003",
+            "UserType": "AD USER"
+        }
+    ],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "35.20",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190189",
+            "DateofFinancialCommitment": "16/04/2019",
+            "DateofReporting": "03/05/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "30,000,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190391",
+            "DateofFinancialCommitment": "22/11/2019",
+            "DateofReporting": "03/12/2019",
+            "Source": "Cash Remittance - EEFC",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "3,600,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SUVEN LIFE SCIENCES LIMITED",
+            "TranNo": "01-000000420190391",
+            "DateofFinancialCommitment": "22/11/2019",
+            "DateofReporting": "03/12/2019",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,600,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

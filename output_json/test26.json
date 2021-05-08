@@ -1,0 +1,127 @@
+{
+    "UIN": "BYWAZ20110560",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "JAIN COAL SERVICES",
+                "AddressoftheParty": "JAIN HOUSE 56 EAST WARDHMAN NAGAR  NAGPUR",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "97.14"
+            }
+        ],
+        "ForeignParties": [],
+        "DetailsofOtherIndianParties": [
+            {
+                "NameoftheParty": "ANKUSH JAIN",
+                "AddressoftheParty": "",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "2.86"
+            }
+        ]
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "PT JAIN COAL INTERNATIONAL",
+        "Address": "GD WISMA METROPOLITAN II LT 6 JL SEND SUDIRMAN KAV 29  JAKARTA SELATAN 12920 INDONESIA",
+        "Category": "INDONESIA",
+        "Country": "WHOLLY OWNED SUBSIDIARY",
+        "Activity": "AGRICULTURE AND MINING",
+        "SubActivity": "MINING AND AGGLOMERATION OF LIGNITE",
+        "NatureofInvestment": "CONTRIBUTION IN WOS",
+        "Accounting Year": "JANUARY",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "1.49",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "JAIN COAL SERVICES",
+            "TranNo": "01-051000020110464",
+            "DateofFinancialCommitment": "17/06/2011",
+            "DateofReporting": "29/06/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,080,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "JAIN COAL SERVICES",
+            "TranNo": "01-051000020110688",
+            "DateofFinancialCommitment": "06/09/2011",
+            "DateofReporting": "13/09/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "410,000.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020160736",
+            "StartDatOfAccountingPeriod ": "01/01/2015",
+            "EndDatOfAccountingPeriod ": "31/12/2015",
+            "AccountingYear": "2015",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "05/10/2016"
+        },
+        {
+            "Transaction No": "05-051000020150640",
+            "StartDatOfAccountingPeriod ": "01/01/2014",
+            "EndDatOfAccountingPeriod ": "31/12/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "10/11/2015"
+        },
+        {
+            "Transaction No": "05-051000020140588",
+            "StartDatOfAccountingPeriod ": "01/01/2013",
+            "EndDatOfAccountingPeriod ": "31/12/2013",
+            "AccountingYear": "2013",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "25/09/2014"
+        },
+        {
+            "Transaction No": "05-051000020130250",
+            "StartDatOfAccountingPeriod ": "01/01/2012",
+            "EndDatOfAccountingPeriod ": "31/12/2012",
+            "AccountingYear": "2012",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "09/07/2013"
+        },
+        {
+            "Transaction No": "05-051000020120286",
+            "StartDatOfAccountingPeriod ": "17/06/2011",
+            "EndDatOfAccountingPeriod ": "31/12/2011",
+            "AccountingYear": "2011",
+            "Status": "Reported/Submitt",
+            "SubmittedOrRatification Date": "16/08/2012"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

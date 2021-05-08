@@ -1,0 +1,117 @@
+{
+    "UIN": "PJJRN20160780",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "SOCIEDADE DE FOMENTO INDUSTRIAL PVT LTD",
+                "AddressoftheParty": "VILLA FLORES DA SILVA ,ERASMO CARVALHO STREET   MARGAO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "79.20"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "ESTREK DAVID NHARRVE",
+                "AddressoftheParty": "AV AVENUE POPULAR 1 ANDAV BAIN CENTRAL MAPUTO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "20.00"
+            },
+            {
+                "NameoftheParty": "ANUJ TIMBLO",
+                "AddressoftheParty": "AV AVENUE POPULAR 1 ANDAV BAIN CENTRAL MAPUTO",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "0.80"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "SOCIEDADE FOMENTO DEMINERAIS DE MOCAMBIQUE LIMITADA",
+        "Address": "AV AVENUE POPULAR 1 ANDAV BAIN CENTRAL MAPUTO",
+        "Category": "MOZAMBIQUE",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTIAL ACQUISITION OF A FOREIGN CONCERN",
+        "Accounting Year": "JANUARY",
+        "AuthorizedDealer": "HDFC BANK LTD",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": []
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "0.00",
+        "Loan": "1.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "02-051000020160773",
+            "DateofFinancialCommitment": "09/11/2015",
+            "DateofReporting": "21/07/2016",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,111.61",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "SOCIEDADE DE FOMENTOINDUSTRIAL PVT LTD",
+            "TranNo": "02-051000020160773",
+            "DateofFinancialCommitment": "09/11/2015",
+            "DateofReporting": "21/07/2016",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "USD",
+            "FinancialCommitmentInActual": {
+                "Equity": "0.00",
+                "Loan": "1,000,000.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-051000020190492",
+            "StartDatOfAccountingPeriod ": "01/04/2017",
+            "EndDatOfAccountingPeriod ": "31/03/2018",
+            "AccountingYear": "2018",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "26/03/2019"
+        },
+        {
+            "Transaction No": "05-051000020180138",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "09/01/2018"
+        },
+        {
+            "Transaction No": "05-051000020170306",
+            "StartDatOfAccountingPeriod ": "09/11/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "01/03/2017"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}

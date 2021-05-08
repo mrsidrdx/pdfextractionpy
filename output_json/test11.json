@@ -1,0 +1,298 @@
+{
+    "UIN": "PJJAZ20110860",
+    "Transaction Details": [],
+    "PartyDetails": {
+        "IndianParties": [
+            {
+                "NameoftheParty": "FOMENTO(KARNATAKA)MINING COMPANY PVT  LTD.",
+                "AddressoftheParty": "CIDADE DE GOA  VAINGUINIM BEACH   DONA PAULA",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "7.45"
+            },
+            {
+                "NameoftheParty": "FOMENTO RESOURCES PVT LTD",
+                "AddressoftheParty": "OFFICE 325, 2ND FLOOR,CASA DEL SOL, CASA III,NEXT TO GOA MARRIOTT, MIRAMAR PANJIM",
+                "NetWorth": "15,546,199,226.00",
+                "StakeofJVorWOS": "7.26"
+            }
+        ],
+        "ForeignParties": [
+            {
+                "NameoftheParty": "BXR VENTURES B.V",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "8.27"
+            },
+            {
+                "NameoftheParty": "DEMOP GLOBAL CORPORATION PTE LTD",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "2.94"
+            },
+            {
+                "NameoftheParty": "FORMENTO ASSOCIATED SINGAPORE GHOLDINGS PTE LTD",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "8.32"
+            },
+            {
+                "NameoftheParty": "WIGMORE",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "28.17"
+            },
+            {
+                "NameoftheParty": "",
+                "AddressoftheParty": "MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "",
+                "StakeofJVorWOS": ""
+            },
+            {
+                "NameoftheParty": "OTHERS.",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "1.77"
+            },
+            {
+                "NameoftheParty": "SHL GROUP LIMITED",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "4.26"
+            },
+            {
+                "NameoftheParty": "WHITE CLOUD CAPITAL FUND LIMITED",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "31.56"
+            },
+            {
+                "NameoftheParty": "WIGMORE.",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "28.17"
+            },
+            {
+                "NameoftheParty": "OTHERS..",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "1.77"
+            },
+            {
+                "NameoftheParty": "OTHERS",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "1.77"
+            },
+            {
+                "NameoftheParty": "WIGMORE STREET INVESTMENTS NO. 6 LIMITED",
+                "AddressoftheParty": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+                "NetWorth": "0.00",
+                "StakeofJVorWOS": "28.17"
+            }
+        ],
+        "DetailsofOtherIndianParties": []
+    },
+    "DetailsofOverseasConcern": {
+        "Name": "CIRRUS BUSINESS INVESTMENTS LTD",
+        "Address": "MORGAN & MORGAN TRUST CORPN LTD  MORGAN & MORGAN BLDG PASEA ESTATE ROAD TOWN TORTALO BRITISH VIRGIN ISLANDS",
+        "Category": "BRITISH VIRGIN ISLANDS",
+        "Country": "JOINT VENTURE",
+        "Activity": "FINANCIAL,INSURANCE AND BUSINESS SERVICES",
+        "SubActivity": "NON-OPERATING FINANCIAL HOLDING COMPANIES",
+        "NatureofInvestment": "PARTICIPATION IN JV",
+        "Accounting Year": "APRIL",
+        "AuthorizedDealer": "SYNDICATE BANK",
+        "StatusoftheUIN": "LIVE"
+    },
+    "IndianPartiesUnderInvestigation": {
+        "IndianParty": [
+            {
+                "IndianPartyName": "FOMENTO RESOURCES PVT LTD",
+                "InvestigationData": [
+                    {
+                        "NameoftheInvestigationAgency": "DOE",
+                        "PeriodUnderInvestigation": {
+                            "From": "01/10/2014",
+                            "To": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "ChangeInNameOfTheIndianParty": [],
+    "ChangeInNameOfJVorWOS": [],
+    "ApprovedInvestments": {
+        "Equity": "24.59",
+        "Loan": "0.00",
+        "GuaranteeIssued": "0.00",
+        "GuaranteeInvoked": "0.00"
+    },
+    "FinancialCommitment": [
+        {
+            "IPName": "FOMENTO(KARNATAKA)MINING COMPANY PVT  LTD.",
+            "TranNo": "01-033000020110014",
+            "DateofFinancialCommitment": "05/09/2011",
+            "DateofReporting": "30/09/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "AUD",
+            "FinancialCommitmentInActual": {
+                "Equity": "13,285,958.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "FOMENTO RESOURCES PVT LTD",
+            "TranNo": "01-033000020160049",
+            "DateofFinancialCommitment": "28/01/2016",
+            "DateofReporting": "18/08/2016",
+            "Source": "Sale/ Transfer/ Liquidationof Indian Party(IP)/ Merger of IP",
+            "CUR": "AUD",
+            "FinancialCommitmentInActual": {
+                "Equity": "13,285,958.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        },
+        {
+            "IPName": "DEVASHRI NIRMAN LLP",
+            "TranNo": "01-033000020170008",
+            "DateofFinancialCommitment": "09/02/2017",
+            "DateofReporting": "30/09/2011",
+            "Source": "Cash Remittance - Market purchase",
+            "CUR": "AUD",
+            "FinancialCommitmentInActual": {
+                "Equity": "1,016,422.00",
+                "Loan": "0.00",
+                "GuaranteeInvoked": "0",
+                "GuaranteeIssued": "0.00",
+                "GuaranteeStatuses": ""
+            }
+        }
+    ],
+    "PendingforRBIRatificationApproval": [],
+    "Inflow Details": [
+        {
+            "Date": "24/06/2014",
+            "Component": "OTHERFEE",
+            "Amount": "2.76"
+        },
+        {
+            "Date": "17/10/2014",
+            "Component": "OTHERFEE",
+            "Amount": "2.58"
+        },
+        {
+            "Date": "28/01/2015",
+            "Component": "OTHERFEE",
+            "Amount": "7.13"
+        },
+        {
+            "Date": "31/03/2015",
+            "Component": "OTHERFEE",
+            "Amount": "4.55"
+        },
+        {
+            "Date": "31/03/2016",
+            "Component": "OTHERFEE",
+            "Amount": "4.65"
+        }
+    ],
+    "SubmissionofAPR": [
+        {
+            "Transaction No": "05-033000020180019",
+            "StartDatOfAccountingPeriod ": "01/04/2016",
+            "EndDatOfAccountingPeriod ": "31/03/2017",
+            "AccountingYear": "2017",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "24/01/2018"
+        },
+        {
+            "Transaction No": "05-033000020170009",
+            "StartDatOfAccountingPeriod ": "01/04/2015",
+            "EndDatOfAccountingPeriod ": "31/03/2016",
+            "AccountingYear": "2016",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "17/01/2017"
+        },
+        {
+            "Transaction No": "05-033000020160032",
+            "StartDatOfAccountingPeriod ": "01/04/2014",
+            "EndDatOfAccountingPeriod ": "31/03/2015",
+            "AccountingYear": "2015",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "16/05/2016"
+        },
+        {
+            "Transaction No": "05-033000020150010",
+            "StartDatOfAccountingPeriod ": "01/04/2013",
+            "EndDatOfAccountingPeriod ": "31/03/2014",
+            "AccountingYear": "2014",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "19/01/2015"
+        },
+        {
+            "Transaction No": "05-033000020150022",
+            "StartDatOfAccountingPeriod ": "01/04/2012",
+            "EndDatOfAccountingPeriod ": "31/03/2013",
+            "AccountingYear": "2013",
+            "Status": "Approved",
+            "SubmittedOrRatification Date": "16/03/2015"
+        },
+        {
+            "Transaction No": "05-033000020130016",
+            "StartDatOfAccountingPeriod ": "05/09/2011",
+            "EndDatOfAccountingPeriod ": "31/03/2012",
+            "AccountingYear": "2012",
+            "Status": "Reported/Submitted to RBI",
+            "SubmittedOrRatification Date": "18/05/2013"
+        }
+    ],
+    "ChangeInOverseasSubsidary": [],
+    "DisinvestmentDetails": [
+        {
+            "UINNumber": "PJJAZ20110860",
+            "TransactionNumber ": "06-033000020170009",
+            "DateOfDisinvestment": "28/01/2015",
+            "DateOfRepatriated": "28/01/2015",
+            "AmountRepatriated": {
+                "Equity": {
+                    "Amount": "8822390",
+                    "CUR": "AUD"
+                }
+            }
+        },
+        {
+            "UINNumber": "PJJAZ20110860",
+            "TransactionNumber ": "06-033000020190001",
+            "DateOfDisinvestment": "24/06/2014",
+            "DateOfRepatriated": "24/06/2014",
+            "AmountRepatriated": {
+                "Equity": {
+                    "Amount": "2941492",
+                    "CUR": "AUD"
+                }
+            }
+        },
+        {
+            "UINNumber": "PJJAZ20110860",
+            "TransactionNumber ": "06-033000020190002",
+            "DateOfDisinvestment": "17/10/2014",
+            "DateOfRepatriated": "17/10/2014",
+            "AmountRepatriated": {
+                "Equity": {
+                    "Amount": "2941490",
+                    "CUR": "AUD"
+                }
+            }
+        }
+    ],
+    "ConversionOfLoanToEquityAndEquityToLoan": [],
+    "GuaranteeDetails": [],
+    "StepDownDetails": []
+}
